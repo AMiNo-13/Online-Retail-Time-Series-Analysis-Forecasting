@@ -17,6 +17,10 @@ This is a transnational dataset which contains all the transactions occurring be
 
 ### The Model and Results
 
+<img width="938" alt="Screen Shot 2020-12-17 at 9 32 28 PM" src="https://user-images.githubusercontent.com/62824675/102610496-24da3980-40e2-11eb-9b69-8e86d86cc56e.png">
+
+
+
 I splited the dataset into two categories, the first one s only UK based customers and second one is the International countries. We ran the dataset on three different models: Linear regression, Decision Tree Regressor, and Random Forest Regressor. Then I used GridSearchCV to find the optimal hyperparameters of a model which results in the most 'accurate' predictions. On the UK dataset I got 80% and on the second mdel I got was close to 65%. 
 
 
