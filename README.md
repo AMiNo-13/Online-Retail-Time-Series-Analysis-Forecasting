@@ -2,15 +2,17 @@
 
 ### Overview
 
-Due to the pandemic, online sales became very crucial for businesses. In order to maintain their success, they have to make sure to attract and maintain their customers and also to be able to maintain their sales at the same time. Predicting sales and RFM analysis is one of the most important business problems for any retail entity. An RFM analysis can be used in conjunction with sales prediction models to gain even further insight into customer behavior. This also can help in directing the marketing efforts and managing its inventory in right direction to increase the chances of sale.
+Due to the pandemic, online sales became very crucial for businesses. In order to maintain their success, they have to make sure to attract and maintain their customers and also to be able to maintain their sales at the same time. Predicting sales and RFM analysis is one of the most important business problems for any retail entity
  
 
 ### Online Retail Business
 
 
-The global online retail market size was valued at USD 4.25 trillion in 2019 and is expected to grow at a compound annual growth rate (CAGR) of 9.4% from 2020 to 2027. Increasing usage of smartphones and the convenience of purchasing daily essentials and luxury products from the comfort of home is primarily driving the growth. The internet has revolutionized the retail industry by increasing the reach of retailers from the local area to overseas, allowing the business to reach the expediency of customer and increasing the cross-broader success.  
+The global online retail market size was valued at USD 4.25 trillion in 2019 and is expected to grow at a compound annual growth rate (CAGR) of 9.4% from 2020 to 2027. Increasing usage of smartphones and the convenience of purchasing daily essentials and luxury products from the comfort of home is primarily driving the growth. The internet has revolutionized the retail industry by increasing the reach of retailers from the local area to overseas, allowing the business to reach the expediency of customer and increasing the cross-broader success. An RFM analysis can be used in conjunction with sales prediction models to gain even further insight into customer behavior. This also can help in directing the marketing efforts and managing its inventory in right direction to increase the chances of sale.
 
 ### Our Data
+
+
 
 This is a transnational dataset which contains all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail.The company mainly sells unique all-occasion gifts. Most sales comes from UK and about 90% customers also are from UK, outside UK, most of the sales are from Europe.
 
