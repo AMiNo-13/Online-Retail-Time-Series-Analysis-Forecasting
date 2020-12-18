@@ -1,4 +1,4 @@
-## Online Retail Customer Segmentation & Sales Prediction
+## Online Retail Customer Segmentation & Sales Prediction
 
 ### Overview
 
