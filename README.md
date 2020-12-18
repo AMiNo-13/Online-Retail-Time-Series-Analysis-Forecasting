@@ -12,7 +12,7 @@ The global online retail market size was valued at USD 4.25 trillion in 2019 and
 
 ### Our Data
 
-
+<img width="967" alt="Screen Shot 2020-12-17 at 11 18 31 PM" src="https://user-images.githubusercontent.com/62824675/102611224-628b9200-40e3-11eb-80b8-496843bc9b3e.png">
 
 This is a transnational dataset which contains all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail.The company mainly sells unique all-occasion gifts. Most sales comes from UK and about 90% customers also are from UK, outside UK, most of the sales are from Europe.
 
