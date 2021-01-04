@@ -20,7 +20,7 @@ This is a transnational dataset which contains all the transactions occurring be
 
 <img width="430" alt="Screen Shot 2021-01-03 at 10 26 02 PM" src="https://user-images.githubusercontent.com/62824675/103538764-b3bdb480-4e4b-11eb-847b-30158bea385b.png">
 
-<img width="430" alt="Screen Shot 2021-01-04 at 4 25 31 AM" src="https://user-images.githubusercontent.com/62824675/103538835-d8199100-4e4b-11eb-943f-bce8c81add57.png">
+<img width="433" alt="Screen Shot 2021-01-04 at 6 20 00 AM" src="https://user-images.githubusercontent.com/62824675/103544519-149dba80-4e55-11eb-9947-3d96bb69a911.png">
 
 For my time series analysis and modling I used ARIMA statistical model. ARIMA model provides a simple yet powerful method for making skillful time series forecasts.
 The line plot is showing the observed values compared to the rolling forecast predictions. Overall, the forecasts align with the true values very well showing an upward trend in sales. I have also forecasted top ten products weekly and daily sales in my analysis that can be found in my notebook. Based on products forecasts models we suggested that to have enough inventories for Products#: 2, 4, 5, 8, and 10 since the trend for those products are upwards. 
