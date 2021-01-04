@@ -1,4 +1,4 @@
-## Online Retail Time Series analysis & Forecast
+## Online Retail Time Series Analysis & Forecast
 
 ### Overview
 
