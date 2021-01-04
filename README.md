@@ -32,7 +32,7 @@ Creating a time series model allowed us to make adjustments to different measure
 
 ### The Future
 
-The potential applications of this technology are only limited by quantity and quality of data. Some next steps for this dataset would be to:
+Some next steps for this dataset would be to:
 -  **More data.** Since the data is mostly UK based, it would nice to get more data from its international customers to see if our model would change especially for the top products. As we saw in our dataset there was an upward trend in the business, that means some products might start selling more than the others in feature.
 -  **Update Automation.** As products and technology updates our models needs to update and improve too. For my future analysis I would to see if we can introduce model that would automatically updates based on the sales and new products. 
 -  **More diverse methods.** There are many ways or methods that we can do time series analysis. I would like to try different methods to see if it would improve our forecasts and models.
