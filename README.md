@@ -1,4 +1,4 @@
-## Online Retail Time Series Analysis & Forecast
+## Online Retail Time Series Analysis & Forecasting
 
 ### Overview
 
@@ -19,17 +19,18 @@ This is a transnational dataset which contains all the transactions occurring be
 ### The Model and Results
 
 
-
+For my time series analysis and modling I used ARIMA statistical model. ARIMA model provides a simple yet powerful method for making skillful time series forecasts.
+The line plot is showing the observed values compared to the rolling forecast predictions. Overall, the forecasts align with the true values very well showing an upward trend in sales. I have also forecasted top ten products weekly and daily sales in my analysis that can be found in my notebook. Based on products forecasts models we suggested that to have enough inventories for Products#: 2, 4, 5, 8, and 10 since the trend for those products are upwards. 
 
 
 ### Conclusions
 
-This peformance represents a first step in sales prediction and analysis. There is still improvement can be done to improve our model, and much improvement is required before deployment; however, these results do suggest that our model is doing well and can be improved. Our RFM analysis can give a valuable insights for business direct marketing.
+Creating a time series model allowed us to make adjustments to different measurements, tuning the model to make it potentially more accurate. The models showed that the forecasted values catch up to the observed values in the dataset which is really good. Obviously there are still room for improvements, the models were the first step in sales forecasts and analysis. The product models forecast can be helpful tool the inventory management for determining which products trend is upward or downward. 
 
 ### The Future
 
 The potential applications of this technology are only limited by quantity and quality of data. Some next steps for this dataset would be to:
--  **More data from different countries.** Since the data is mostly UK based, it would nice to get more data from its international customers to have better model.  
--  **More diverse data.** Since we created two datasets, we would like use these two datasets separately to have more standardized data for a model because there can be some patterns that work for other countries and do not for UK or vise versa.  
-- **Data on other online retail businesses.** I would like to use my model on different online retail data to see how it would performs against other datasets. This way we can improve our model better 
-
+-  **More data.** Since the data is mostly UK based, it would nice to get more data from its international customers to see if our model would change especially for the top products. As we saw in our dataset there was an upward trend in the business, that means some products might start selling more than the others in feature.
+-  **Update Automation.** As products and technology updates our models needs to update and improve too. For my future analysis I would to see if we can introduce model that would automatically updates based on the sales and new products. 
+-  **More diverse methods.** There are many ways or methods that we can do time series analysis. I would like to try different methods to see if it would improve our forecasts and models.
+- **Data on other online retail businesses.** I would like to use my model on different online retail data to see how it would performs against other datasets. This may help to improve our model. 
