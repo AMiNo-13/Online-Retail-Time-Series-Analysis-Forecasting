@@ -13,6 +13,8 @@ The world of online sales is becoming increasingly complex as more and more peop
 
 <img width="967" alt="Screen Shot 2020-12-17 at 11 18 31 PM" src="https://user-images.githubusercontent.com/62824675/102611224-628b9200-40e3-11eb-80b8-496843bc9b3e.png">
 
+<img width="430" alt="Screen Shot 2021-01-04 at 4 25 31 AM" src="https://user-images.githubusercontent.com/62824675/103538835-d8199100-4e4b-11eb-943f-bce8c81add57.png">
+
 This is a transnational dataset which contains all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail.The company mainly sells unique all-occasion gifts. Most sales comes from UK and about 90% customers also are from UK, outside UK, most of the sales are from Europe. In my research I analyzed and studied this dataset and used time series analysis to build a model using ARIMA for the top products and total sales to find the best model that can help and guide the company future decisions.
 
 
