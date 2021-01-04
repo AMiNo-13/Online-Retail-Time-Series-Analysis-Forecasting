@@ -2,28 +2,24 @@
 
 ### Overview
 
-Due to the pandemic, online sales became very crucial for businesses. In order to maintain their success, they have to make sure to attract and maintain their customers and also to be able to maintain their sales at the same time. Predicting sales and RFM analysis is one of the most important business problems for any retail entity
+Due to the pandemic, online sales became very crucial for businesses. One of the tools to maintain their success is to use time series analysis. A major benefit of time series analysis is that it can be the basis to forecast data. This is because time series analysis — by its very nature — uncovers patterns in data, which can then be used to predict future data points. In my research I used ARIMA (AutoRegressive Integrated Moving-Average time-series) analysis to create daily and weekly forecasting models for the top 10 products and total sales.
  
 
 ### Online Retail Business
 
-
-The global online retail market size was valued at USD 4.25 trillion in 2019 and is expected to grow at a compound annual growth rate (CAGR) of 9.4% from 2020 to 2027. Increasing usage of smartphones and the convenience of purchasing daily essentials and luxury products from the comfort of home is primarily driving the growth. The internet has revolutionized the retail industry by increasing the reach of retailers from the local area to overseas, allowing the business to reach the expediency of customer and increasing the cross-broader success. An RFM analysis can be used in conjunction with sales prediction models to gain even further insight into customer behavior. This also can help in directing the marketing efforts and managing its inventory in right direction to increase the chances of sale.
+The world of online sales is becoming increasingly complex as more and more people begin to buy and sell goods online. The global online retail market size was valued at USD 4.25 trillion in 2019 and is expected to grow at a compound annual growth rate (CAGR) of 9.4% from 2020 to 2027. Increasing usage of smartphones and the convenience of purchasing daily essentials and luxury products from the comfort of home is primarily driving the growth. The internet has revolutionized the retail industry by increasing the reach of retailers from the local area to overseas, allowing the business to reach the expediency of customer and increasing the cross-broader success.
 
 ### Our Data
 
 <img width="967" alt="Screen Shot 2020-12-17 at 11 18 31 PM" src="https://user-images.githubusercontent.com/62824675/102611224-628b9200-40e3-11eb-80b8-496843bc9b3e.png">
 
-This is a transnational dataset which contains all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail.The company mainly sells unique all-occasion gifts. Most sales comes from UK and about 90% customers also are from UK, outside UK, most of the sales are from Europe.
+This is a transnational dataset which contains all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail.The company mainly sells unique all-occasion gifts. Most sales comes from UK and about 90% customers also are from UK, outside UK, most of the sales are from Europe. In my research I analyzed and studied this dataset and used time series analysis to build a model using ARIMA for the top products and total sales to find the best model that can help and guide the company future decisions.
 
 
 ### The Model and Results
 
-<img width="938" alt="Screen Shot 2020-12-17 at 9 32 28 PM" src="https://user-images.githubusercontent.com/62824675/102610496-24da3980-40e2-11eb-9b69-8e86d86cc56e.png">
 
-<img width="938" alt="Screen Shot 2020-12-17 at 9 35 07 PM" src="https://user-images.githubusercontent.com/62824675/102610640-64088a80-40e2-11eb-804c-2fa4790f30ab.png">
 
-I splited the dataset into two categories, the first one s only UK based customers and second one is the International countries. We ran the dataset on three different models: Linear regression, Decision Tree Regressor, and Random Forest Regressor. Then I used GridSearchCV to find the optimal hyperparameters of a model which results in the most 'accurate' predictions. On the UK dataset I got 80% and on the second mdel I got was close to 65%. 
 
 
 ### Conclusions
