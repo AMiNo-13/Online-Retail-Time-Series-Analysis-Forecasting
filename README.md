@@ -9,6 +9,8 @@ Due to the pandemic, online sales became very crucial for businesses. One of the
 
 The world of online sales is becoming increasingly complex as more and more people begin to buy and sell goods online. The global online retail market size was valued at USD 4.25 trillion in 2019 and is expected to grow at a compound annual growth rate (CAGR) of 9.4% from 2020 to 2027. Increasing usage of smartphones and the convenience of purchasing daily essentials and luxury products from the comfort of home is primarily driving the growth. The internet has revolutionized the retail industry by increasing the reach of retailers from the local area to overseas, allowing the business to reach the expediency of customer and increasing the cross-broader success.
 
+In my research, my models forecasting can help overall business sales and inventory management. It can improve financial decision making overall. For example, generally an ideal inventory management is when you have precisely the right amount of stock at all times. Too little, and you risk disappointing customers. Too much, and your inventory and warehousing costs can spiral. Warehouse space isn’t cheap, so you must use it as efficiently as you can. That's why forecasting is important and how models forecasting can help. It can help the inventory management system. Right amount of stock can save space cost in warehouses and investment cost on each products.    
+
 ### Our Data
 
 <img width="967" alt="Screen Shot 2020-12-17 at 11 18 31 PM" src="https://user-images.githubusercontent.com/62824675/102611224-628b9200-40e3-11eb-80b8-496843bc9b3e.png">
