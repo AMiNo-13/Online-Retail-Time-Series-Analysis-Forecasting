@@ -18,12 +18,12 @@ In my research, my models forecasting can help overall business sales and invent
 
 <img width="917" alt="Screen Shot 2021-01-04 at 4 50 08 AM" src="https://user-images.githubusercontent.com/62824675/103720559-79096880-4f80-11eb-92ac-f2da105b12f2.png">
 
-This dataset which contains all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail.The company mainly sells unique all-occasion gifts. Most sales comes from UK and about 90% customers also are from UK, outside UK, most of the sales are from Europe. In my research I analyzed and studied this dataset and used time series analysis to build a model using ARIMA for the top products and total sales. The modeles can help and guide the company to a better future decisions.
+This dataset which contains all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail.The company mainly sells unique all-occasion gifts. Most sales comes from UK and about 90% customers also are from UK, outside UK, most of the sales are from Europe. In my research I analyzed and studied this dataset and used time series analysis to build a model using ARIMA for the top products and total sales. 
 
 
 ### The Model and Results
 
-For my time series analysis and modling I used ARIMA statistical model. ARIMA model provides a simple yet powerful method for making skillful time series forecasts.
+For my time series analysis and modling I used ARIMA statistical model. ARIMA model provides a simple yet powerful method for making skillful time series forecasts. The models and forecasts can be helpful tool for companies decision making on sales forecast and inventory management.
 
 Here I am going to show my weekly trend and forecast graph:
 
