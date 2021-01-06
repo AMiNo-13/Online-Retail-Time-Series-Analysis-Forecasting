@@ -16,7 +16,7 @@ In my research, my models forecasting can help overall business sales and invent
 
 ### Our Data
 
-<img width="967" alt="Screen Shot 2020-12-17 at 11 18 31 PM" src="https://user-images.githubusercontent.com/62824675/102611224-628b9200-40e3-11eb-80b8-496843bc9b3e.png">
+<img width="917" alt="Screen Shot 2021-01-04 at 4 50 08 AM" src="https://user-images.githubusercontent.com/62824675/103720559-79096880-4f80-11eb-92ac-f2da105b12f2.png">
 
 This dataset which contains all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail.The company mainly sells unique all-occasion gifts. Most sales comes from UK and about 90% customers also are from UK, outside UK, most of the sales are from Europe. In my research I analyzed and studied this dataset and used time series analysis to build a model using ARIMA for the top products and total sales. The modeles can help and guide the company to a better future decisions.
 
