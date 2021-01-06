@@ -31,9 +31,17 @@ Here I am going to show my weekly trend and forecast graph:
 
 By the graph you can see a upward trend in sales and high peack sales before holidays. My forecast is closely align with the true values which is good, showing an overall increase trend after a small decrease, but there still is room improvement. 
 
-Lets check on some top products graph outputs:
+From the dataset I analyzed and forecast weekly and daily the top 10 products. Since they are close to 40 graphs in this research I am just going to go over few. You can see the entire model and graphs in my notebook. Here is the link: 
+
+Here is one of the top product daily forecast:
 
 <img width="433" alt="Screen Shot 2021-01-04 at 6 20 00 AM" src="https://user-images.githubusercontent.com/62824675/103544519-149dba80-4e55-11eb-9947-3d96bb69a911.png">
+
+Overall, my forecasts align with the true values very well, showing an overall increase trend. Many of those high picks are related to holidays like valentines , Eastern, and father's Day. 
+
+Let's check another top daily product graph:
+
+
 
 For my time series analysis and modling I used ARIMA statistical model. ARIMA model provides a simple yet powerful method for making skillful time series forecasts.
 The line plot is showing the observed values compared to the rolling forecast predictions. Overall, the forecasts align with the true values very well showing an upward trend in sales. I have also forecasted top ten products weekly and daily sales in my analysis that can be found in my notebook. Based on products forecasts models I would suggested that to have enough inventories for Products#: 2, 4, 5, 8, and 10 since the trend for those products are upwards. 
