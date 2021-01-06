@@ -50,7 +50,9 @@ Again as you can see my forecast aligns with the product trend very well, but th
 
 ### Conclusions
 
-Creating a time series model allowed us to make adjustments to different measurements, tuning the model to make it potentially more accurate. The models showed that the forecasted values are very close to actual sales trend in the dataset which is really good. Obviously there are still room for improvements, the models were the first step in sales forecasts and analysis. The product models forecast can be helpful tool the inventory management for determining which products trend is upward or downward. 
+Creating a time series model allowed us to make adjustments to different measurements, tuning the model to make it potentially more accurate. There is also a lot of scope in EDA, which can be tried in future analysis. After doing some EDA most of company sales mostly happened between Tuesday and Thursday, and the most number of transactions is done between 12 p.m. and 2 p.m. Most of the sales happens in UK, but Outside UK, Germany, France, and Ireland (EIRE) are the top business customers. 
+
+The models which I have created are not perfect and certainly there are room to improve the performance. Between weekly and daily models, I think my daily models perform better since I had more observation to train and test the models. As I analyze each product, most of sales happened close to the holidays. As mentioned earlier forecasting can very helpful in inventory management determining for determining which products trend is upward or downward. For example, products number 2, 4, 5, 8, and 10 had upward trend so I suggested that to purchase some inventory for those products to make we don't lose any customers. 
 
 ### The Future
 
