@@ -31,9 +31,9 @@ Here I am going to show my weekly trend and forecast graph:
 <img width="438" alt="Screen Shot 2021-01-05 at 1 29 21 PM" src="https://user-images.githubusercontent.com/62824675/103725347-3600c280-4f8b-11eb-956d-5ed65d4c14fa.png">
 
 
-By the graph you can see a upward trend in sales and high peack sales before holidays. My forecast is closely align with the true values which is good, showing an overall increase trend after a small decrease, but there still is room improvement. 
+By the graph you can see an upward trend in sales and high peaks sales before holidays. My forecast is closely align with the sales trend which is good, showing an overall increase trend after a small dip, but the model can still can be improved. 
 
-From the dataset I analyzed and forecast weekly and daily the top 10 products. Since they are close to 40 graphs in this research I am just going to go over few. You can see the entire model and graphs in my notebook. Here is the link: 
+From the dataset I analyzed and forecast the top 10 products weekly and daily. Since they are close to 40 graphs in this research I am just going to go over few. You can see the entire model and graphs in my notebook. Here is the link: 
 
 Here is one of the top product daily forecast:
 
@@ -45,7 +45,7 @@ Let's check another forecast on a top product:
 
 <img width="503" alt="Screen Shot 2021-01-05 at 4 36 42 PM" src="https://user-images.githubusercontent.com/62824675/103725364-3ef19400-4f8b-11eb-87c9-ea48bf7c4049.png">
 
-Again as you can see my forecast aligns with the product trend very well, but there is downward trend towards October. However this product is more profitable than the previous product as you see on the total sales especially at those high peak days. The top peak 2 sales can be related to valentines day and eastern or Ascension day in the beginning in May. This easily can tell the managers or owners to have enough inventory on those peak days but as not as much towards the end of the year since there downward forecast trend. 
+Again as you can see my forecast aligns with the product trend very well, but there is downward trend towards October. However this product is more profitable than the previous product as you see on the total sales especially at those high peak days. The top 2 peaks sales can be related to valentines day and eastern or Ascension day in the beginning in May. This easily can tell the managers or owners to have enough inventory on those peak days but as not as much towards the end of the year since there downward forecast trend. 
 
 
 ### Conclusions
