@@ -23,6 +23,8 @@ This dataset which contains all the transactions occurring between 01/12/2010 an
 
 ### The Model and Results
 
+For my time series analysis and modling I used ARIMA statistical model. ARIMA model provides a simple yet powerful method for making skillful time series forecasts.
+
 Here I am going to show my weekly trend and forecast graph:
 
 
@@ -37,14 +39,13 @@ Here is one of the top product daily forecast:
 
 <img width="433" alt="Screen Shot 2021-01-04 at 6 20 00 AM" src="https://user-images.githubusercontent.com/62824675/103544519-149dba80-4e55-11eb-9947-3d96bb69a911.png">
 
-Overall, my forecasts align with the true values very well, showing an overall increase trend. Many of those high picks are related to holidays like valentines , Eastern, and father's Day. 
+Overall, my forecasts closely aligns with the sales trend very well, showing an overall increase trend. Many of those high picks are related to holidays, but overall there is a lot of daily activity during May, June, July. Since it is a lunch bag this can be a indication that customers buy those not only for holidays gifts but mostly close to summer time since they can be used for outdoor activity. The forecast indicates that the manager or owner should invest more in this product and have it in stock since there is demand for it.
 
-Let's check another top daily product graph:
+Let's check another forecast on a top product:
 
+<img width="503" alt="Screen Shot 2021-01-05 at 4 36 42 PM" src="https://user-images.githubusercontent.com/62824675/103725364-3ef19400-4f8b-11eb-87c9-ea48bf7c4049.png">
 
-
-For my time series analysis and modling I used ARIMA statistical model. ARIMA model provides a simple yet powerful method for making skillful time series forecasts.
-The line plot is showing the observed values compared to the rolling forecast predictions. Overall, the forecasts align with the true values very well showing an upward trend in sales. I have also forecasted top ten products weekly and daily sales in my analysis that can be found in my notebook. Based on products forecasts models I would suggested that to have enough inventories for Products#: 2, 4, 5, 8, and 10 since the trend for those products are upwards. 
+Again as you can see my forecast aligns with the product trend very well, but there is downward trend towards October. However this product is more profitable than the previous product as you see on the total sales especially at those high peak days. The top peak 2 sales can be related to valentines day and eastern or Ascension day in the beginning in May. This easily can tell the managers or owners to have enough inventory on those peak days but as not as much towards the end of the year since there downward forecast trend. 
 
 
 ### Conclusions
