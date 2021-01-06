@@ -31,7 +31,7 @@ Here I am going to show my weekly trend and forecast graph:
 <img width="438" alt="Screen Shot 2021-01-05 at 1 29 21 PM" src="https://user-images.githubusercontent.com/62824675/103725347-3600c280-4f8b-11eb-956d-5ed65d4c14fa.png">
 
 
-By the graph you can see an upward trend in sales and high peaks sales before holidays. My forecast is closely align with the sales trend which is good, showing an overall increase trend after a small dip, but the model can still can be improved. 
+By the graph you can see an upward trend in sales and high peaks sales before holidays. My forecast is closely align with the sales trend which is good, showing an overall increase trend after a small dip, but the model can still can be improved to align more closely with the sales trend. After all we can see it upward trend forecast for upcoming weeks which can be a good indication that the company is healthy and doing well and shouldn't be worried about the small dip.
 
 From the dataset I analyzed and forecast the top 10 products weekly and daily. Since they are close to 40 graphs in this research I am just going to go over few. You can see the entire model and graphs in my notebook. Here is the link: https://github.com/AMiNo-13/Online-Retail-Time-Series-Analysis-Forecasting/blob/main/Modeling%20%26%20Forecasting.ipynb
 
