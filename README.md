@@ -26,7 +26,7 @@ This dataset which contains all the transactions occurring between 01/12/2010 an
 Here I am going to show my weekly trend and forecast graph:
 
 
-<img width="430" alt="Screen Shot 2021-01-03 at 10 26 02 PM" src="https://user-images.githubusercontent.com/62824675/103538764-b3bdb480-4e4b-11eb-847b-30158bea385b.png">
+<img width="438" alt="Screen Shot 2021-01-05 at 1 29 21 PM" src="https://user-images.githubusercontent.com/62824675/103725347-3600c280-4f8b-11eb-956d-5ed65d4c14fa.png">
 
 
 By the graph you can see a upward trend in sales and high peack sales before holidays. My forecast is closely align with the true values which is good, showing an overall increase trend after a small decrease, but there still is room improvement. 
