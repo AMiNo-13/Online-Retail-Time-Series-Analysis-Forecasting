@@ -28,7 +28,7 @@ This dataset which contains all the transactions occurring between 01/12/2010 an
 <img width="433" alt="Screen Shot 2021-01-04 at 6 20 00 AM" src="https://user-images.githubusercontent.com/62824675/103544519-149dba80-4e55-11eb-9947-3d96bb69a911.png">
 
 For my time series analysis and modling I used ARIMA statistical model. ARIMA model provides a simple yet powerful method for making skillful time series forecasts.
-The line plot is showing the observed values compared to the rolling forecast predictions. Overall, the forecasts align with the true values very well showing an upward trend in sales. I have also forecasted top ten products weekly and daily sales in my analysis that can be found in my notebook. Based on products forecasts models we suggested that to have enough inventories for Products#: 2, 4, 5, 8, and 10 since the trend for those products are upwards. 
+The line plot is showing the observed values compared to the rolling forecast predictions. Overall, the forecasts align with the true values very well showing an upward trend in sales. I have also forecasted top ten products weekly and daily sales in my analysis that can be found in my notebook. Based on products forecasts models I would suggested that to have enough inventories for Products#: 2, 4, 5, 8, and 10 since the trend for those products are upwards. 
 
 
 ### Conclusions
@@ -38,7 +38,7 @@ Creating a time series model allowed us to make adjustments to different measure
 ### The Future
 
 Some next steps for this dataset would be to:
--  **More data.** Since the data is mostly UK based, it would nice to get more data from its international customers to see if our model would change especially for the top products. As we saw in our dataset there was an upward trend in the business, that means some products might start selling more than the others in feature.
--  **Update Automation.** As products and technology updates our models needs to update and improve too. For my future analysis I would to see if we can introduce model that would automatically updates based on the sales and new products. 
+-  **More data.** Since the data is mostly UK based, it would nice to get more data from its international customers to see if my model would change especially for the top products. As we saw in our dataset there was an upward trend in the business, that means some products might start selling more than the others in feature.
+-  **Update Automation.** As products and technology updates my models needs to update and improve too. For my future analysis I would to see if I can introduce model that would automatically updates based on the sales and new products. 
 -  **More diverse methods.** There are many ways or methods that we can do time series analysis. I would like to try different methods to see if it would improve our forecasts and models.
-- **Data on other online retail businesses.** I would like to use my model on different online retail data to see how it would performs against other datasets. This may help to improve our model. 
+- **Data on other online retail businesses.** I would like to use my model on different online retail data to see how it would performs against other datasets. This may help to improve my model. 
