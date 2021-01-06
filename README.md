@@ -5,7 +5,7 @@
 Due to the pandemic, online sales became very crucial for businesses. One of the tools to maintain their success is to use time series analysis. A major benefit of time series analysis is that it can be the basis to forecast data. This is because time series analysis — by its very nature — uncovers patterns in data, which can then be used to predict future data points. 
 
 Our data is from UCI Machine Learning Repository website. Link: http://archive.ics.uci.edu/ml/datasets/online+retail#. 
-The client in this case is a UK-based and registered non-store online retail. The data contains about 540,000 observations domestic and internationally, and the company mainly sells unique all-occasion gifts. In my research I used ARIMA (AutoRegressive Integrated Moving-Average time-series) analysis to create daily and weekly forecasting models for the top 10 products and total sales.
+The client in this case is a UK-based and registered non-store online retail. The data contains about 540,000 observations domestic and internationally, and the company mainly sells unique all-occasion gifts. In my research I used ARIMA (AutoRegressive Integrated Moving-Average time-series) statistical model to create daily and weekly forecasting models for the top 10 products and total sales.
  
 
 ### Online Retail Business
@@ -23,7 +23,15 @@ This dataset which contains all the transactions occurring between 01/12/2010 an
 
 ### The Model and Results
 
+Here I am going to show my weekly trend and forecast graph:
+
+
 <img width="430" alt="Screen Shot 2021-01-03 at 10 26 02 PM" src="https://user-images.githubusercontent.com/62824675/103538764-b3bdb480-4e4b-11eb-847b-30158bea385b.png">
+
+
+By the graph you can see a upward trend in sales and high peack sales before holidays. My forecast is closely align with the true values which is good, showing an overall increase trend after a small decrease, but there still is room improvement. 
+
+Lets check on some top products graph outputs:
 
 <img width="433" alt="Screen Shot 2021-01-04 at 6 20 00 AM" src="https://user-images.githubusercontent.com/62824675/103544519-149dba80-4e55-11eb-9947-3d96bb69a911.png">
 
