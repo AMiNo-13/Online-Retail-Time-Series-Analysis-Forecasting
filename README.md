@@ -50,12 +50,12 @@ Again as you can see my forecast aligns with the product trend very well, but th
 
 ### Conclusions
 
-Creating a time series model allowed us to make adjustments to different measurements, tuning the model to make it potentially more accurate. The models showed that the forecasted values catch up to the observed values in the dataset which is really good. Obviously there are still room for improvements, the models were the first step in sales forecasts and analysis. The product models forecast can be helpful tool the inventory management for determining which products trend is upward or downward. 
+Creating a time series model allowed us to make adjustments to different measurements, tuning the model to make it potentially more accurate. The models showed that the forecasted values are very close to actual sales trend in the dataset which is really good. Obviously there are still room for improvements, the models were the first step in sales forecasts and analysis. The product models forecast can be helpful tool the inventory management for determining which products trend is upward or downward. 
 
 ### The Future
 
 Some next steps for this dataset would be to:
--  **More data.** Since the data is mostly UK based, it would nice to get more data from its international customers to see if my model would change especially for the top products. As we saw in our dataset there was an upward trend in the business, that means some products might start selling more than the others in feature.
--  **Update Automation.** As products and technology updates my models needs to update and improve too. For my future analysis I would to see if I can introduce model that would automatically updates based on the sales and new products. 
--  **More diverse methods.** There are many ways or methods that we can do time series analysis. I would like to try different methods to see if it would improve our forecasts and models.
+-  **More data.** Since the data is mostly UK based, it would nice to get more data from its international customers to see if my model would change especially for the top products. As we saw in our dataset there was an upward sales forecast trend in the business, that means some products might start selling more than the others in the feature.
+-  **Update Automation.** As products and technology updates my models needs to update and improve too. For my future analysis I would to see if I can introduce a model that would automatically updates based on the sales and new products. 
+-  **More diverse methods.** There are many ways or methods that can be done with time series analysis. I would like to try different methods to see if it would improve our forecasts and models.
 - **Data on other online retail businesses.** I would like to use my model on different online retail data to see how it would performs against other datasets. This may help to improve my model. 
